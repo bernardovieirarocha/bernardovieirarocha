@@ -104,5 +104,5 @@ language badges:
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
-
+https://github.com/Defcon27/Defcon27/blob/master/README.md
 -->
