@@ -6,7 +6,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bernardovieirarocha)](https://github.com/bernardovieirarocha) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardovrocha/)](https://www.linkedin.com/in/bernardovrocha/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo.rocha.676403@sga.pucminas.br)](mailto:bernardo.rocha.676403@sga.pucminas.br)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bbernardo.rocha/)](https://www.instagram.com/bbernardo.rocha/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bbernardo.rocha/)](https://www.instagram.com/bbernardo.rocha/)
 
 ### Um pouco sobre mim ...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Enthusiasta 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que também sirvam um propósito.<br/><br/>
@@ -15,6 +15,7 @@ Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Mi
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌐 Web Development
+  - 📱 App Development
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
 - 👯 Estou a disposição para ajudar, contribuir e desenvolver projetos de hardware.
@@ -23,10 +24,10 @@ Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Mi
 - 🎉 Curiosidade: Eu ❤️ Filmes e Séries 🎬 e Viajar ✈️
 
   
-### 🖥️ My DevSetup
+### 🖥️ Meu Setup
 <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Algumas tecnologias que uso
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -43,50 +44,7 @@ Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Mi
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
-
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="" /> -->
-</p>
-
-
-<!-- ![Profile Views]() -->
-
-
-<!-- <details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="">
-<img src="" />
-</a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="" />
-</a>
-</p>
-</details> -->
-
-
-
-<!--
-**Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-pic on right
-<img height="270" src="sss.svg" align=right>
-
- 
-views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
-
-
-social modded badge
-<a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
-
-language badges:
+### 🛠️ Ferramentas que eu uso
 ![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b)
@@ -100,6 +58,4 @@ language badges:
 
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
-https://github.com/Defcon27/Defcon27/blob/master/README.md
--->
+<!-- Inspirado no https://github.com/Defcon27/Defcon27/blob/master/README.md --> 
