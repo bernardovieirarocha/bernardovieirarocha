@@ -2,32 +2,29 @@
 <h1>Olá!, Eu sou o <a href="https://github.com/bernardovieirarocha">Bernardo</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
+### 📬 Contate-me
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bernardovieirarocha)](https://github.com/bernardovieirarocha) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardovrocha/)](https://www.linkedin.com/in/bernardovrocha/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo.rocha.676403@sga.pucminas.br)](bernardo.rocha.676403@sga.pucminas.br)
 
 
 ### Um pouco sobre mim ...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Minas Gerais 🅾️](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Tech Enthusiast 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que serviam um propósito.<br/><br/>
-
+Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Minas Gerais 🅾️](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Enthusiasta 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que também sirvam um propósito.<br/><br/>
 
 ## ⚡️ Meus interesses: 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
+  - 🌐 Web Development
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
-- 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, DL, CV, NLP
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+- 👯 Estou a disposição para ajudar, contribuir e desenvolver projetos de hardware.
+- 💬 Pergunte-me sobre Python, Django, React, Linux, Arduino e Raspberry Pi
+- 📙 Da uma olhada no meu [Currículo](https://bernardorocha.me)
+- 🎉 Curiosidade: Eu ❤️ Filmes e Séries 🎬 e Viajar ✈️
 
   
 ### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
