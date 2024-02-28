@@ -20,7 +20,7 @@ Eu sou um **Estudante de Graduação🎓 [@Pontifical Catholic University of Min
   - 🤖 Robotics
 - 👯 Estou a disposição para ajudar, contribuir e desenvolver projetos de hardware.
 - 💬 Pergunte-me sobre Python, Django, React, Linux, Arduino e Raspberry Pi
-- 📙 Da uma olhada no meu [Currículo](https://bernardorocha.me)
+- 📙 Da uma olhada no meu [Currículo](https://bernardorocha.me) e no meu [Portifólio](https://bernardorocha.com)
 - 🎉 Curiosidade: Eu ❤️ Filmes e Séries 🎬 e Viajar ✈️
 
   
