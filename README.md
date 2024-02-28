@@ -13,7 +13,7 @@ Eu sou um **Estudante de Graduação🎓 [@Pontifical Catholic University of Min
 
 ## ⚡️ Meus interesses: 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Eu gosto de
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Eu curto demais:
   - 🌐 Web Development
   - 📱 App Development
   - 🛠 DIY Raspberry Pi Projects
