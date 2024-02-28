@@ -9,11 +9,11 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bbernardo.rocha/)](https://www.instagram.com/bbernardo.rocha/)
 
 ### Um pouco sobre mim ...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Enthusiasta 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que também sirvam um propósito.<br/><br/>
+Eu sou um **Estudante de Graduação🎓 [@Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Enthusiasta 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que também sirvam um propósito.<br/><br/>
 
 ## ⚡️ Meus interesses: 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Eu gosto de
   - 🌐 Web Development
   - 📱 App Development
   - 🛠 DIY Raspberry Pi Projects
@@ -39,11 +39,11 @@ Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Mi
 ![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat-square&logo=pi-hole&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
 
 <!-- Inspirado no https://github.com/Defcon27/Defcon27/blob/master/README.md --> 
