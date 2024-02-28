@@ -5,11 +5,11 @@
 ### 📬 Contate-me
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bernardovieirarocha)](https://github.com/bernardovieirarocha) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardovrocha/)](https://www.linkedin.com/in/bernardovrocha/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo.rocha.676403@sga.pucminas.br)](bernardo.rocha.676403@sga.pucminas.br)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardo.rocha.676403@sga.pucminas.br)](mailto:bernardo.rocha.676403@sga.pucminas.br)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bbernardo.rocha/)](https://www.instagram.com/bbernardo.rocha/)
 
 ### Um pouco sobre mim ...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Minas Gerais 🅾️](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Enthusiasta 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que também sirvam um propósito.<br/><br/>
+Eu sou um **Estudante de Graduação🎓 [@ Pontifical Catholic University of Minas Gerais](https://www.pucminas.br/)** cursando Ciência da Computação. Eu sou um **Enthusiasta 💻 😃**  apaixonado por aprender e utilizar novas tecnologias. Eu adoro construir projetos e produtos interessantes e que também sirvam um propósito.<br/><br/>
 
 ## ⚡️ Meus interesses: 
 
